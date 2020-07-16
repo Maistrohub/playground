@@ -1,0 +1,32 @@
+.wrapper {
+    margin: 0 auto;
+    width: 650px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.relative img {
+    position: relative;
+    height: 250px;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: #999;
+    margin-left: 70px;
+}
+
+footer {
+    background-color: green;
+    text-align: center;
+}
+
+.topleft img {
+    padding: 20px;
+    margin: 0 auto;
+    height: 100px;
+    width: 100px;
+}
